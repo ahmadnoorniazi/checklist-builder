@@ -1,0 +1,31 @@
+.radio-main {
+  text-align: right;
+  width: 100%;
+}
+.radio-button-red > .ant-radio-checked .ant-radio-inner {
+  border-color: red !important ;
+}
+
+.radio-button-red > .ant-radio-checked .ant-radio-inner:after {
+  background-color: red;
+}
+
+.radio-button-red > .ant-radio-checked .ant-radio-inner {
+  border-color: red !important ;
+}
+
+.radio-button-green > .ant-radio-checked .ant-radio-inner:after {
+  background-color: green;
+}
+
+.radio-button-green > .ant-radio-checked .ant-radio-inner {
+  border-color: green !important ;
+}
+
+.radio-button-gray > .ant-radio-checked .ant-radio-inner:after {
+  background-color: gray;
+}
+
+.radio-button-gray > .ant-radio-checked .ant-radio-inner {
+  border-color: gray !important ;
+}

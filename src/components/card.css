@@ -1,0 +1,15 @@
+.main {
+  display: inline-flex;
+}
+
+.item-num {
+  margin-right: 15px;
+}
+
+.options-section {
+  margin-top: 15px;
+}
+
+.card-box {
+  margin-bottom: 15px;
+}
